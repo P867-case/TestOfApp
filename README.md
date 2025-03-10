@@ -1,2 +1,2 @@
 # TestOfApp
-A repository for an app, flutter , which is a test of my knowledge
+A repository for an app, flutter , which is a test of my knowledge.
